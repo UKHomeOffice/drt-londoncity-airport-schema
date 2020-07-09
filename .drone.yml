@@ -1,6 +1,6 @@
 pipeline:
   build:
-    image: quay.io/ukhomeofficedigital/scala-sbt:latest
+    image: quay.io/ukhomeofficedigital/scala-sbt:5559413a195aa8044f599c626ccd01156381f2a5
     commands:
       - /root/entrypoint.sh
       - sbt clean test publish

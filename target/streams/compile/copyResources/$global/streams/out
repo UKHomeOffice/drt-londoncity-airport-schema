@@ -1,4 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/src/main/resources/RequestFlightServiceSingle.wsdl,/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/classes/RequestFlightServiceSingle.wsdl)[0m
-[0m[[0mdebug[0m] [0m	(/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/src/main/resources/RequestFlightService.wsdl,/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/classes/RequestFlightService.wsdl)[0m
-[0m[[0mdebug[0m] [0m	(/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/src/main/resources/RequestFileService10.wsdl,/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/classes/RequestFileService10.wsdl)[0m

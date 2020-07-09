@@ -1,0 +1,419 @@
+[0m[[0minfo[0m] [0mMain Java API documentation to /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api...[0m
+[0m[[0mdebug[0m] [0mAttempting to call javadoc directly...[0m
+[0m[[0mdebug[0m] [0mcom.sun.tools.javadoc.Main not found with appropriate method signature; forking javadoc instead[0m
+[0m[[0mdebug[0m] [0mForking javadoc: javadoc @/var/folders/1y/0lcx8j114jnbs3lkkj447x340000gn/T/sbt_b3f0d420/argfile[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/com/airport2020/requestaidx/IRequestFlightService.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/com/airport2020/requestaidx/IRequestFlightService_BasicHttpsBindingIRequestFlightService_Client.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/com/airport2020/requestaidx/ObjectFactory.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/com/airport2020/requestaidx/RequestFlightService.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/BaggageLoadType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/DeadLoadType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/DepartureArrivalType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/DestinationType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ErrorType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ErrorsType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegIdentifierType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FreeTextType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FuelDataType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FuelQualifierEnumType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FuelQualifierType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/IATAAIDXFlightLegRS.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/MeasurementType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/MeasurementUnitType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/SuccessType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/TPAExtensionsType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/UsageType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/WarningType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/WarningsType.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/package-info.java...[0m
+[0m[[0minfo[0m] [0mConstructing Javadoc information...[0m
+[0m[[0minfo[0m] [0mStandard Doclet version 1.8.0_172[0m
+[0m[[0minfo[0m] [0mBuilding tree for all the packages and classes...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/BaggageLoadType.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/BaggageLoadType.java:87: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public List<BaggageLoadType.BagCount> getBagCount() {[0m
+[0m[[33mwarn[0m] [0m                                          ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/BaggageLoadType.BagCount.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/DeadLoadType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/DepartureArrivalType.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/DepartureArrivalType.java:13: warning: empty <p> tag[0m
+[0m[[33mwarn[0m] [0m * <p>[0m
+[0m[[33mwarn[0m] [0m   ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/DestinationType.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/DestinationType.java:13: warning: empty <p> tag[0m
+[0m[[33mwarn[0m] [0m * <p>[0m
+[0m[[33mwarn[0m] [0m   ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/ErrorsType.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ErrorsType.java:62: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public List<ErrorType> getError() {[0m
+[0m[[33mwarn[0m] [0m                           ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/ErrorType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegIdentifierType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegIdentifierType.Airline.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegIdentifierType.ArrivalAirport.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegIdentifierType.DepartureAirport.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegIdentifierType.RepeatNumber.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1078: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.OperationalStatus> getOperationalStatus() {[0m
+[0m[[33mwarn[0m] [0m                                                             ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1299: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.PlannedArrivalAptHistory> getPlannedArrivalAptHistory() {[0m
+[0m[[33mwarn[0m] [0m                                                                    ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1328: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.SpecialEmphasis> getSpecialEmphasis() {[0m
+[0m[[33mwarn[0m] [0m                                                           ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1357: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.IrregularityDelay> getIrregularityDelay() {[0m
+[0m[[33mwarn[0m] [0m                                                             ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1386: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.CabinClass> getCabinClass() {[0m
+[0m[[33mwarn[0m] [0m                                                      ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1415: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.SpecialCargo> getSpecialCargo() {[0m
+[0m[[33mwarn[0m] [0m                                                        ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1444: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.CodeShareInfo> getCodeShareInfo() {[0m
+[0m[[33mwarn[0m] [0m                                                         ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1473: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.AssociatedFlightLegAircraft> getAssociatedFlightLegAircraft() {[0m
+[0m[[33mwarn[0m] [0m                                                                       ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1502: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.AssociatedFlightLegSchedule> getAssociatedFlightLegSchedule() {[0m
+[0m[[33mwarn[0m] [0m                                                                       ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1531: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.RemarkTextCode> getRemarkTextCode() {[0m
+[0m[[33mwarn[0m] [0m                                                          ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1584: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.AirportResources> getAirportResources() {[0m
+[0m[[33mwarn[0m] [0m                                                            ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1613: warning: no @return[0m
+[0m[[33mwarn[0m] [0m        public List<FlightLegType.LegData.OperationTime> getOperationTime() {[0m
+[0m[[33mwarn[0m] [0m                                                         ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AircraftInfo.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1948: warning: no @return[0m
+[0m[[33mwarn[0m] [0m            public List<FlightLegType.LegData.AircraftInfo.CrewInfo> getCrewInfo() {[0m
+[0m[[33mwarn[0m] [0m                                                                     ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:1977: warning: no @return[0m
+[0m[[33mwarn[0m] [0m            public List<FlightLegType.LegData.AircraftInfo.AgentInfo> getAgentInfo() {[0m
+[0m[[33mwarn[0m] [0m                                                                      ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:2054: warning: no @return[0m
+[0m[[33mwarn[0m] [0m            public List<DeadLoadType> getDeadLoad() {[0m
+[0m[[33mwarn[0m] [0m                                      ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:2083: warning: no @return[0m
+[0m[[33mwarn[0m] [0m            public List<BaggageLoadType> getBaggage() {[0m
+[0m[[33mwarn[0m] [0m                                         ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:2112: warning: no @return[0m
+[0m[[33mwarn[0m] [0m            public List<FuelDataType> getFuel() {[0m
+[0m[[33mwarn[0m] [0m                                      ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AircraftInfo.AgentInfo.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AircraftInfo.CrewInfo.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AirportResources.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:2558: warning: no @return[0m
+[0m[[33mwarn[0m] [0m            public List<FlightLegType.LegData.AirportResources.Resource> getResource() {[0m
+[0m[[33mwarn[0m] [0m                                                                         ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AirportResources.Resource.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:2808: warning: no @return[0m
+[0m[[33mwarn[0m] [0m                public List<FlightLegType.LegData.AirportResources.Resource.PassengerGate> getPassengerGate() {[0m
+[0m[[33mwarn[0m] [0m                                                                                           ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:2837: warning: no @return[0m
+[0m[[33mwarn[0m] [0m                public List<FlightLegType.LegData.AirportResources.Resource.RemoteOperationalGate> getRemoteOperationalGate() {[0m
+[0m[[33mwarn[0m] [0m                                                                                                   ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:2914: warning: no @return[0m
+[0m[[33mwarn[0m] [0m                public List<FlightLegType.LegData.AirportResources.Resource.PublicTerminal> getPublicTerminal() {[0m
+[0m[[33mwarn[0m] [0m                                                                                            ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:2991: warning: no @return[0m
+[0m[[33mwarn[0m] [0m                public List<FlightLegType.LegData.AirportResources.Resource.BaggageClaimUnit> getBaggageClaimUnit() {[0m
+[0m[[33mwarn[0m] [0m                                                                                              ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:3020: warning: no @return[0m
+[0m[[33mwarn[0m] [0m                public List<FlightLegType.LegData.AirportResources.Resource.BaggageMakeupBelt> getBaggageMakeupBelt() {[0m
+[0m[[33mwarn[0m] [0m                                                                                               ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:3049: warning: no @return[0m
+[0m[[33mwarn[0m] [0m                public List<FlightLegType.LegData.AirportResources.Resource.CheckInInfo> getCheckInInfo() {[0m
+[0m[[33mwarn[0m] [0m                                                                                         ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AirportResources.Resource.AircraftParkingPosition.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AirportResources.Resource.BaggageClaimUnit.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AirportResources.Resource.BaggageMakeupBelt.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AirportResources.Resource.CheckInInfo.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AirportResources.Resource.PassengerGate.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AirportResources.Resource.PublicTerminal.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AirportResources.Resource.RemoteOperationalGate.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AssociatedFlightLegAircraft.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AssociatedFlightLegSchedule.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AssociatedFlightLegSchedule.ArrivalAirport.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.AssociatedFlightLegSchedule.DepartureAirport.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.CabinClass.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:4313: warning: no @return[0m
+[0m[[33mwarn[0m] [0m            public List<FlightLegType.LegData.CabinClass.InflightService> getInflightService() {[0m
+[0m[[33mwarn[0m] [0m                                                                          ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:4342: warning: no @return[0m
+[0m[[33mwarn[0m] [0m            public List<FlightLegType.LegData.CabinClass.InflightMealService> getInflightMealService() {[0m
+[0m[[33mwarn[0m] [0m                                                                              ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FlightLegType.java:4371: warning: no @return[0m
+[0m[[33mwarn[0m] [0m            public List<FlightLegType.LegData.CabinClass.PaxCount> getPaxCount() {[0m
+[0m[[33mwarn[0m] [0m                                                                   ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.CabinClass.InflightMealService.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.CabinClass.InflightService.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.CabinClass.PaxCount.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.CodeShareInfo.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.CodeShareInfo.Airline.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.IrregularityDelay.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.OperationalStatus.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.OperationTime.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.OwnerAirline.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.OwnerAirline.Airline.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.PlannedArrivalAptHistory.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.PublicFlightDisplay.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.PublicFlightDisplay.AirlineType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.PublicStatus.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.RemarkTextCode.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.SpecialCargo.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FlightLegType.LegData.SpecialEmphasis.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FreeTextType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FuelDataType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FuelQualifierEnumType.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/FuelQualifierEnumType.java:13: warning: empty <p> tag[0m
+[0m[[33mwarn[0m] [0m * <p>[0m
+[0m[[33mwarn[0m] [0m   ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/FuelQualifierType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/IATAAIDXFlightLegRS.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/IATAAIDXFlightLegRS.java:133: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public List<Object> getErrorsOrFlightLegOrSuccess() {[0m
+[0m[[33mwarn[0m] [0m                        ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/MeasurementType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/MeasurementUnitType.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/MeasurementUnitType.java:13: warning: empty <p> tag[0m
+[0m[[33mwarn[0m] [0m * <p>[0m
+[0m[[33mwarn[0m] [0m   ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/ObjectFactory.html...[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:46: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public BaggageLoadType createBaggageLoadType() {[0m
+[0m[[33mwarn[0m] [0m                           ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:54: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegIdentifierType createFlightLegIdentifierType() {[0m
+[0m[[33mwarn[0m] [0m                                   ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:62: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType createFlightLegType() {[0m
+[0m[[33mwarn[0m] [0m                         ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:70: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData createFlightLegTypeLegData() {[0m
+[0m[[33mwarn[0m] [0m                                 ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:78: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.PublicFlightDisplay createFlightLegTypeLegDataPublicFlightDisplay() {[0m
+[0m[[33mwarn[0m] [0m                                                     ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:86: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AircraftInfo createFlightLegTypeLegDataAircraftInfo() {[0m
+[0m[[33mwarn[0m] [0m                                              ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:94: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AirportResources createFlightLegTypeLegDataAirportResources() {[0m
+[0m[[33mwarn[0m] [0m                                                  ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:102: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AirportResources.Resource createFlightLegTypeLegDataAirportResourcesResource() {[0m
+[0m[[33mwarn[0m] [0m                                                           ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:110: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AssociatedFlightLegSchedule createFlightLegTypeLegDataAssociatedFlightLegSchedule() {[0m
+[0m[[33mwarn[0m] [0m                                                             ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:118: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.CodeShareInfo createFlightLegTypeLegDataCodeShareInfo() {[0m
+[0m[[33mwarn[0m] [0m                                               ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:126: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.CabinClass createFlightLegTypeLegDataCabinClass() {[0m
+[0m[[33mwarn[0m] [0m                                            ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:134: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.OwnerAirline createFlightLegTypeLegDataOwnerAirline() {[0m
+[0m[[33mwarn[0m] [0m                                              ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:142: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public IATAAIDXFlightLegRS createIATAAIDXFlightLegRS() {[0m
+[0m[[33mwarn[0m] [0m                               ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:150: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public ErrorsType createErrorsType() {[0m
+[0m[[33mwarn[0m] [0m                      ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:158: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public SuccessType createSuccessType() {[0m
+[0m[[33mwarn[0m] [0m                       ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:166: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public WarningsType createWarningsType() {[0m
+[0m[[33mwarn[0m] [0m                        ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:174: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public ErrorType createErrorType() {[0m
+[0m[[33mwarn[0m] [0m                     ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:182: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FreeTextType createFreeTextType() {[0m
+[0m[[33mwarn[0m] [0m                        ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:190: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public WarningType createWarningType() {[0m
+[0m[[33mwarn[0m] [0m                       ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:198: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public DeadLoadType createDeadLoadType() {[0m
+[0m[[33mwarn[0m] [0m                        ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:206: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public MeasurementType createMeasurementType() {[0m
+[0m[[33mwarn[0m] [0m                           ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:214: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FuelDataType createFuelDataType() {[0m
+[0m[[33mwarn[0m] [0m                        ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:222: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FuelQualifierType createFuelQualifierType() {[0m
+[0m[[33mwarn[0m] [0m                             ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:230: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public TPAExtensionsType createTPAExtensionsType() {[0m
+[0m[[33mwarn[0m] [0m                             ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:238: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public BaggageLoadType.BagCount createBaggageLoadTypeBagCount() {[0m
+[0m[[33mwarn[0m] [0m                                    ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:246: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegIdentifierType.Airline createFlightLegIdentifierTypeAirline() {[0m
+[0m[[33mwarn[0m] [0m                                           ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:254: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegIdentifierType.DepartureAirport createFlightLegIdentifierTypeDepartureAirport() {[0m
+[0m[[33mwarn[0m] [0m                                                    ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:262: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegIdentifierType.ArrivalAirport createFlightLegIdentifierTypeArrivalAirport() {[0m
+[0m[[33mwarn[0m] [0m                                                  ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:270: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegIdentifierType.RepeatNumber createFlightLegIdentifierTypeRepeatNumber() {[0m
+[0m[[33mwarn[0m] [0m                                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:278: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.OperationalStatus createFlightLegTypeLegDataOperationalStatus() {[0m
+[0m[[33mwarn[0m] [0m                                                   ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:286: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.PublicStatus createFlightLegTypeLegDataPublicStatus() {[0m
+[0m[[33mwarn[0m] [0m                                              ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:294: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.PlannedArrivalAptHistory createFlightLegTypeLegDataPlannedArrivalAptHistory() {[0m
+[0m[[33mwarn[0m] [0m                                                          ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:302: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.SpecialEmphasis createFlightLegTypeLegDataSpecialEmphasis() {[0m
+[0m[[33mwarn[0m] [0m                                                 ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:310: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.IrregularityDelay createFlightLegTypeLegDataIrregularityDelay() {[0m
+[0m[[33mwarn[0m] [0m                                                   ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:318: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.SpecialCargo createFlightLegTypeLegDataSpecialCargo() {[0m
+[0m[[33mwarn[0m] [0m                                              ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:326: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AssociatedFlightLegAircraft createFlightLegTypeLegDataAssociatedFlightLegAircraft() {[0m
+[0m[[33mwarn[0m] [0m                                                             ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:334: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.RemarkTextCode createFlightLegTypeLegDataRemarkTextCode() {[0m
+[0m[[33mwarn[0m] [0m                                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:342: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.OperationTime createFlightLegTypeLegDataOperationTime() {[0m
+[0m[[33mwarn[0m] [0m                                               ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:350: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.PublicFlightDisplay.AirlineType createFlightLegTypeLegDataPublicFlightDisplayAirlineType() {[0m
+[0m[[33mwarn[0m] [0m                                                                 ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:358: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AircraftInfo.CrewInfo createFlightLegTypeLegDataAircraftInfoCrewInfo() {[0m
+[0m[[33mwarn[0m] [0m                                                       ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:366: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AircraftInfo.AgentInfo createFlightLegTypeLegDataAircraftInfoAgentInfo() {[0m
+[0m[[33mwarn[0m] [0m                                                        ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:374: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AirportResources.Resource.AircraftParkingPosition createFlightLegTypeLegDataAirportResourcesResourceAircraftParkingPosition() {[0m
+[0m[[33mwarn[0m] [0m                                                                                   ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:382: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AirportResources.Resource.PassengerGate createFlightLegTypeLegDataAirportResourcesResourcePassengerGate() {[0m
+[0m[[33mwarn[0m] [0m                                                                         ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:390: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AirportResources.Resource.RemoteOperationalGate createFlightLegTypeLegDataAirportResourcesResourceRemoteOperationalGate() {[0m
+[0m[[33mwarn[0m] [0m                                                                                 ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:398: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AirportResources.Resource.PublicTerminal createFlightLegTypeLegDataAirportResourcesResourcePublicTerminal() {[0m
+[0m[[33mwarn[0m] [0m                                                                          ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:406: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AirportResources.Resource.BaggageClaimUnit createFlightLegTypeLegDataAirportResourcesResourceBaggageClaimUnit() {[0m
+[0m[[33mwarn[0m] [0m                                                                            ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:414: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AirportResources.Resource.BaggageMakeupBelt createFlightLegTypeLegDataAirportResourcesResourceBaggageMakeupBelt() {[0m
+[0m[[33mwarn[0m] [0m                                                                             ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:422: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AirportResources.Resource.CheckInInfo createFlightLegTypeLegDataAirportResourcesResourceCheckInInfo() {[0m
+[0m[[33mwarn[0m] [0m                                                                       ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:430: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AssociatedFlightLegSchedule.DepartureAirport createFlightLegTypeLegDataAssociatedFlightLegScheduleDepartureAirport() {[0m
+[0m[[33mwarn[0m] [0m                                                                              ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:438: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.AssociatedFlightLegSchedule.ArrivalAirport createFlightLegTypeLegDataAssociatedFlightLegScheduleArrivalAirport() {[0m
+[0m[[33mwarn[0m] [0m                                                                            ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:446: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.CodeShareInfo.Airline createFlightLegTypeLegDataCodeShareInfoAirline() {[0m
+[0m[[33mwarn[0m] [0m                                                       ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:454: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.CabinClass.InflightService createFlightLegTypeLegDataCabinClassInflightService() {[0m
+[0m[[33mwarn[0m] [0m                                                            ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:462: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.CabinClass.InflightMealService createFlightLegTypeLegDataCabinClassInflightMealService() {[0m
+[0m[[33mwarn[0m] [0m                                                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:470: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.CabinClass.PaxCount createFlightLegTypeLegDataCabinClassPaxCount() {[0m
+[0m[[33mwarn[0m] [0m                                                     ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:478: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public FlightLegType.LegData.OwnerAirline.Airline createFlightLegTypeLegDataOwnerAirlineAirline() {[0m
+[0m[[33mwarn[0m] [0m                                                      ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:487: warning: no @param for value[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<String> createFlightLegTypeSpecialAction(String value) {[0m
+[0m[[33mwarn[0m] [0m                               ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:487: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<String> createFlightLegTypeSpecialAction(String value) {[0m
+[0m[[33mwarn[0m] [0m                               ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:496: warning: no @param for value[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<Boolean> createFlightLegTypeLegDataTechnicalStopInd(Boolean value) {[0m
+[0m[[33mwarn[0m] [0m                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:496: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<Boolean> createFlightLegTypeLegDataTechnicalStopInd(Boolean value) {[0m
+[0m[[33mwarn[0m] [0m                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:505: warning: no @param for value[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<Boolean> createFlightLegTypeLegDataDepSecurityCheckInd(Boolean value) {[0m
+[0m[[33mwarn[0m] [0m                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:505: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<Boolean> createFlightLegTypeLegDataDepSecurityCheckInd(Boolean value) {[0m
+[0m[[33mwarn[0m] [0m                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:514: warning: no @param for value[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<Boolean> createFlightLegTypeLegDataArrSecurityCheckInd(Boolean value) {[0m
+[0m[[33mwarn[0m] [0m                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:514: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<Boolean> createFlightLegTypeLegDataArrSecurityCheckInd(Boolean value) {[0m
+[0m[[33mwarn[0m] [0m                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:523: warning: no @param for value[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<Boolean> createFlightLegTypeLegDataAirportResourcesResourceCrewBusInd(Boolean value) {[0m
+[0m[[33mwarn[0m] [0m                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:523: warning: no @return[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<Boolean> createFlightLegTypeLegDataAirportResourcesResourceCrewBusInd(Boolean value) {[0m
+[0m[[33mwarn[0m] [0m                                ^[0m
+[0m[[33mwarn[0m] [0m/Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/src_managed/cxf/org/iata/iata/_2007/_00/ObjectFactory.java:532: warning: no @param for value[0m
+[0m[[33mwarn[0m] [0m    public JAXBElement<Boolean> createFlightLegTypeLegDataAirportResourcesResourcePaxBusInd(Boolean value) {[0m
+[0m[[33mwarn[0m] [0m                                ^[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/SuccessType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/TPAExtensionsType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/UsageType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/WarningsType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/WarningType.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/com/airport2020/requestaidx/IRequestFlightService.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/com/airport2020/requestaidx/IRequestFlightService_BasicHttpsBindingIRequestFlightService_Client.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/com/airport2020/requestaidx/ObjectFactory.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/com/airport2020/requestaidx/RequestFlightService.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/overview-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/com/airport2020/requestaidx/package-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/com/airport2020/requestaidx/package-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/com/airport2020/requestaidx/package-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/package-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/package-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/org/iata/iata/_2007/_00/package-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/constant-values.html...[0m
+[0m[[0minfo[0m] [0mBuilding index for all the packages and classes...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/overview-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/index-all.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/deprecated-list.html...[0m
+[0m[[0minfo[0m] [0mBuilding index for all classes...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/allclasses-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/allclasses-noframe.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/index.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/overview-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/api/help-doc.html...[0m
+[0m[[0minfo[0m] [0m100 warnings[0m
+[0m[[0mdebug[0m] [0mjavadoc returned exit code: 0[0m
+[0m[[0minfo[0m] [0mMain Java API documentation successful.[0m

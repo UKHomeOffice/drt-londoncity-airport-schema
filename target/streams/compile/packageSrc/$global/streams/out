@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/drt-londoncity-airport-schema_2.12-1.0.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	RequestFlightServiceSingle.wsdl[0m
+[0m[[0mdebug[0m] [0m	  /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/src/main/resources/RequestFlightServiceSingle.wsdl[0m
+[0m[[0mdebug[0m] [0m	RequestFlightService.wsdl[0m
+[0m[[0mdebug[0m] [0m	  /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/src/main/resources/RequestFlightService.wsdl[0m
+[0m[[0mdebug[0m] [0m	RequestFileService10.wsdl[0m
+[0m[[0mdebug[0m] [0m	  /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/src/main/resources/RequestFileService10.wsdl[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

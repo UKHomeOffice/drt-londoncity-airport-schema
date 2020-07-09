@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: uk.gov.homeoffice#drt-londoncity-airport-schema_2.12;1.0.0 :: 1.0.0 :: release :: Thu Jul 02 16:15:13 BST 2020[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Thu Jul 02 16:15:13 BST 2020 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /Users/nilesh/HO_DRT/drt-londoncity-airport-schema/target/scala-2.12/ivy-1.0.0.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (16ms)[0m
